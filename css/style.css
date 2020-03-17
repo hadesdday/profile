@@ -1,0 +1,122 @@
+* {
+  font-family: "Open Sans", sans-serif;
+}
+body {
+  text-align: center;
+  margin: 0;
+  color: #40514E;
+}
+.student {
+  text-decoration: underline;
+  font-weight: normal;
+}
+.cloud2 {
+  position: absolute;
+  left: 2px;
+  bottom: 250px;
+}
+h1 {
+  font-family: "Dancing Script", cursive !important;
+  font-size: 625%; /* muon chuyen pixel sang phan tram de element chuyen doi theo
+                    kich co mac dinh cua trinh duyet nguoi dung thi lay so pixel 
+                    chia cho 0,16 se ra so phan tram bang voi so pixel can */
+}
+.cloud {
+  position: absolute;
+  right: 2px;
+  top: 40px;
+}
+h1,
+h2 {
+  color: #66bfbf;
+}
+h2{
+  padding-bottom: 10px;
+}
+h3,
+.footer-link
+{
+  color: #11999e;
+}
+p{
+    line-height: 2;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.top-container {
+  line-height: 2;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.first-skill{
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+.second-skill{
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+.top-container{
+  background-color: #EAF6F6;
+}
+.myButton {
+	background:linear-gradient(to bottom,#66BFBF 5%,#66BFBF 100%);
+	background-color:#66BFBF;
+	border-radius:28px;
+	border:1px solid #66BFBF;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+  text-shadow:0px 1px 0px #66BFBF;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #5cbf2a 5%, #44c767 100%);
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  width: 100%;
+  padding:50px 0 20px ;
+}
+.middle-container{
+  margin: 100px 0;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px auto;
+}
+a{
+  color: #11999e;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.copyright{
+color: #EAF6F6;
+font-size: 0.75em;
+padding: 20px 0;
+}
+        
